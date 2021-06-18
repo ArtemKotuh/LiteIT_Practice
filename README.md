@@ -1,4 +1,5 @@
 # LiteIT_Practice
 
+Project: Youtube Video Player
 
-Необходимо распаковать архив vendor.rar
+Для работы необходимо распаковать архив vendor.rar
