@@ -1,0 +1,47 @@
+
+body{
+	background-color: blue;
+}
+/*
+=======================================================================
+	Most Popular Vedio Banner Rules
+=======================================================================
+*/
+.mostcontainer {
+	width:100%;
+	/*float:left;*/
+	/*overflow:hidden;*/
+	margin-bottom:1px;
+}
+.mostcontainer h2, .mostcontainer h1, .nwscontainer h2, .nwscontainer h1 {
+	width:100%;
+	padding:10px 0 6px 0;
+	/*border-bottom:solid 1px #ccc;*/
+	border-bottom: solid 2px brown;
+}
+.mostcontainer ul {
+	padding-top: 10px;
+	/*width:661px;*/
+	/*float:left;*/
+}
+.mostcontainer li {
+	/*float:left;*/
+	/*width:155px;*/
+	padding-bottom:10px;
+	/*margin-right:10px;*/
+	margin-left: 8px;
+}
+.mostcontainer li p{
+	padding-top:1px;
+	line-height:16px;
+	padding-bottom:2px;
+	}
+
+.undrlne {
+	text-decoration:underline;
+}
+.mostcontainer h3 {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+}
